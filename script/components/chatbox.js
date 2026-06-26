@@ -13,7 +13,7 @@
       `;
       // Split message into individual character spans for typing animation
       const chatbox = div.querySelector(".hbd-chatbox");
-      const msg = section.message || "Happy Birthday!";
+      const msg = section.message || "Feliz cumpleañooos!";
       chatbox.innerHTML = msg
         .split("")
         .map((ch) => `<span>${ch}</span>`)

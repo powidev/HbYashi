@@ -10,7 +10,7 @@
           <img src="${config.photo}" alt="profile" class="profile-picture" />
         </div>
         <div class="wish">
-          <h3 class="wish-hbd">${section.wishTitle || "Happy Birthday!"}</h3>
+          <h3 class="wish-hbd">${section.wishTitle || "Feliz cumpleañooos!"}</h3>
           <h5 class="wish-text">${section.wishText || ""}</h5>
         </div>
       `;

@@ -27,9 +27,9 @@
 
 const CONFIG = {
   // ── Recipient Info ────────────────────────────────────────────
-  name: "Irene",
-  photo: "./img/irene.jpg",       // Place your photo in the img/ folder
-  music: "./music/hbd.mpeg",      // Place your music in the music/ folder
+  name: "Yashii",
+  photo: "./img/gatito.jpg",       // Place your photo in the img/ folder
+  music: "./music/mikrokosmos.mp3",      // Place your music in the music/ folder
 
   // ── Theme Colors ──────────────────────────────────────────────
   // A toggle button lets the viewer switch between dark & light mode.
@@ -55,8 +55,8 @@ const CONFIG = {
   sections: [
     {
       type: "greeting",
-      title: "Hi",
-      subtitle: "I really like your name btw!",
+      title: "Hii",
+      subtitle: "¡Espero te guste...!",
     },
     {
       type: "countdown",
@@ -65,28 +65,28 @@ const CONFIG = {
     },
     {
       type: "announcement",
-      text: "It's your birthday!! :D",
+      text: "Es tu cumpleañooss!! y queria desearte un... :D",
     },
     {
       type: "chatbox",
       message:
-        "Happy birthday to youu!! Wishing you a wonderful year ahead filled with joy, love, and endless happiness!",
-      buttonText: "Send",
+        "¡¡Feliz cumpleañooss!! Te deseo un año maravilloso por delante, lleno de alegría, amor y felicidad infinita.!",
+      buttonText: "Enviar",
     },
     {
       type: "ideas",
       lines: [
-        "That's what I was going to do.",
-        "But then I stopped.",
-        "I realised, I wanted to do something <strong>special</strong>.",
-        "Because,",
-        "You are Special <span>:)</span>",
+        "Eyy, espera... eso no es todo",
+        "Aún queda más...",
+        "Me di cuenta de que quería hacer algo <strong>especial</strong>.",
+        "Porque...",
+        "Eres una gran amiga y te aprecio mucho <span>😊</span>"
       ],
       bigLetters: "SO",
     },
     {
       type: "quote",
-      text: "The more you praise and celebrate your life, the more there is in life to celebrate.",
+      text: "Cuanto más elogies y celebres tu vida, más cosas habrá en ella para celebrar.",
       author: "Oprah Winfrey",
     },
     {
@@ -99,8 +99,8 @@ const CONFIG = {
     },
     {
       type: "profile",
-      wishTitle: "Happy Birthday!",
-      wishText: "May the js.prototypes always be with you! ;)",
+      wishTitle: "Feliz cumpleañooss!",
+      wishText: "¡Que las buenas vibras y la felicidad te acompañen siempre! ¡Feliz cumple, Yashii!",
     },
     {
       type: "fireworks",
@@ -112,8 +112,8 @@ const CONFIG = {
     },
     {
       type: "closing",
-      text: "Okay, now come back and tell me if you liked it.",
-      replayText: "Or click, if you want to watch it again.",
+      text: "Que la pases super en tu dia, Yashii🎂🥳✨",
+      replayText: "O haz clic si quieres volver a verlo.",
     },
   ],
 };
